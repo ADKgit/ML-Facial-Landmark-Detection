@@ -5,7 +5,7 @@ The project focuses on predicting key facial landmark points from images using *
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Facial landmark alignment is a fundamental problem in computer vision, with applications in face recognition, emotion analysis, and human–computer interaction.  
 In this project, a full end-to-end pipeline was implemented to:
@@ -20,7 +20,7 @@ The emphasis is on **understanding and implementing the full machine learning pi
 
 ---
 
-## 🧠 Methodology
+## Methodology
 
 The pipeline follows these key stages:
 
@@ -47,7 +47,7 @@ The pipeline follows these key stages:
 
 ---
 
-## 📊 Evaluation
+## Evaluation
 
 Model performance is evaluated using:
 - **Mean Euclidean distance error** across facial landmarks
@@ -57,7 +57,7 @@ This allows both numerical and visual assessment of alignment quality.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - **Python**
 - **NumPy**
@@ -68,7 +68,7 @@ This allows both numerical and visual assessment of alignment quality.
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 .
